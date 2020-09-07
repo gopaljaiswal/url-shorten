@@ -33,6 +33,7 @@ Simplications:
 
 Build:
  mvn clean install -DskipTests
+ java -jar target/url-api-0.0.1-SNAPSHOT.jar
 
 
 Postman Api Collection lonk:
